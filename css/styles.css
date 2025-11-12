@@ -10970,3 +10970,27 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.work-item {
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    overflow: hidden; 
+    transition: transform 0.3s ease-in-out; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.work-item:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
+.work-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.work-caption {
+    background-color: #f8f9fa;
+    text-align: center;
+}
