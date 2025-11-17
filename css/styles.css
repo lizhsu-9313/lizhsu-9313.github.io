@@ -10986,9 +10986,9 @@ section.resume-section .resume-section-content {
 }
 
 .uniform-work-img {
-    width: 300px; 
+    width: 300px !important; 
 
-    height: 200px;
+    height: 200px !important;
 
     object-fit: cover; 
 }
