@@ -10984,11 +10984,3 @@ section.resume-section .resume-section-content {
     background-color: #f8f9fa;
     text-align: center;
 }
-
-.uniform-work-img {
-    width: 300px !important; 
-
-    height: 200px !important;
-
-    object-fit: cover; 
-}
